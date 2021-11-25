@@ -1,2 +1,5 @@
-# challenge_bliss
-Challenge Bliss - Android 
+# Challenge Bliss
+
+Technologies used
+
+- Kotlin
